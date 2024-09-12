@@ -7,7 +7,7 @@ Today, thousands of users—from pre-product startups to investment firms with b
 ## Resources
 - [Documentation](https://docs.databento.com): check out our getting started guide, API references for historical and live, examples, and knowledge base.
 - [Roadmap](https://roadmap.databento.com/roadmap): stay updated on our development, submit dataset requests and feature ideas.
-- [Slack community](https://databento-hq.slack.com/): join our Databento community to chat with fellow users and our team.
+- [Slack community](https://to.dbn.to/slack): join our Databento community to chat with fellow users and our team.
 
 ## Contact
 Feel free to [contact us](https://databento.com/contact) with any questions.
